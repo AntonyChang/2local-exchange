@@ -1,0 +1,28 @@
+[
+{
+pid: 16,
+lpAddresses: {
+1: "0x627846f6131a4631ddf6bb53bd682ccf51f623b3"
+},
+tokenAddresses: {
+1: "0x33d0568941c0c64ff7e0fb4fba0b11bd37deed9f"
+},
+token2Addresses: {
+1: "0xdac17f958d2ee523a2206206994597c13d831ec7"
+},
+name: "RAMP - USDT",
+symbol: "RAMP-USDT USDT-V1 LP",
+symbolShort: "RAMP-USDT",
+description: "Deposit RAMP-USDT LUA-V1 LP Earn LUA",
+tokenSymbol: "RAMP",
+token2Symbol: "USDT",
+icon: "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x33D0568941C0C64ff7e0FB4fbA0B11BD37deEd9f/logo.png",
+icon2: "https://s2.coinmarketcap.com/static/img/coins/128x128/825.png",
+isHot: false,
+isNew: true,
+protocal: "LuaSwap",
+iconProtocal: "https://luaswap.org/favicon.png",
+pairLink: "https://info.luaswap.org/pair/0x627846f6131a4631ddf6bb53bd682ccf51f623b3",
+addLiquidityLink: "https://app.luaswap.org/#/add/0x33d0568941c0c64ff7e0fb4fba0b11bd37deed9f/0xdac17f958d2ee523a2206206994597c13d831ec7",
+removeLiquidityLink: "https://app.luaswap.org/#/remove/0x33d0568941c0c64ff7e0fb4fba0b11bd37deed9f/0xdac17f958d2ee523a2206206994597c13d831ec7"
+} ]
